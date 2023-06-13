@@ -13,7 +13,7 @@ API_KEY=<your_api_key>
 
 # install chatgpt cmdline
 ```
-go get github.com/pavansh/chatgpt
+go install github.com/pavansh/chatgpt
 ```
 
 # usage
